@@ -1,5 +1,5 @@
 # Getting Started with Create React App
-
+The deployed project is live at  https://horizon-engine.netlify.app
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
